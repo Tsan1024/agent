@@ -1,6 +1,5 @@
-![Swarm Logo](assets/logo.png)
 
-# Swarm (experimental, educational)
+# Agent (experimental, educational) fork from Swarm
 
 An educational framework exploring ergonomic, lightweight multi-agent orchestration.
 
@@ -14,13 +13,13 @@ An educational framework exploring ergonomic, lightweight multi-agent orchestrat
 Requires Python 3.10+
 
 ```shell
-pip install git+ssh://git@github.com/openai/swarm.git
+git clone git@github.com:Tsan1024/agent.git
 ```
 
 or
 
 ```shell
-pip install git+https://github.com/openai/swarm.git
+git clone https://github.com/openai/swarm.git
 ```
 
 ## Usage
